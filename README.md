@@ -3,7 +3,7 @@ This simple dashboard combines various visualisation and data analytics tool to 
 
 ## User Interface (UI)
 
-At the heart of the Flight Dashboard Project lies a user-friendly GUI that simplifies aviation data visualization and interaction. The UI provides real-time information, navigation tools, and communication systems, making it accessible to all users.
+At the heart of the Flight Dashboard Project lies a user-friendly GUI that simplifies flight data visualization and interaction. The UI provides real-time information, navigation tools, and communication systems, making it accessible to all users.
 ![image](https://github.com/rupakghanghas/flight-analytics/assets/121816838/99ab55b3-2c83-419a-9d6e-f7303c48f9d2)
 ![image](https://github.com/rupakghanghas/flight-analytics/assets/121816838/3b421e62-1f0d-4b11-be17-1686b75017d3)
 
